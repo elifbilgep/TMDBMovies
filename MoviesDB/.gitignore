@@ -1,3 +1,14 @@
 
 # Ignore Constants.swift
 Constants.swift
+# User-specific files
+*.xcuserdata
+
+# Build artifacts
+build/
+
+# Derived data
+DerivedData/
+
+# Swift Package Manager
+.swiftpm/
