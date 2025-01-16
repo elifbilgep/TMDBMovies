@@ -6,7 +6,8 @@
 //
 
 import Foundation
-#warning("add to git ignore")
+
+
 enum Constants {
     static var apiKey = "a16613f354865db877cef0d6a05002b6"
 }
